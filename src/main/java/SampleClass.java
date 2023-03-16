@@ -68,7 +68,7 @@ public class SampleClass {
 
     //    implement a custom .toString(){} method here.
     public String toString() {
-        return a + " " + b;
+        return ("The two Objects are " + a + " and " + b);
     }
 
     
